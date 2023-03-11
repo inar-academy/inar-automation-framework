@@ -1,4 +1,4 @@
-package com.dangelsin.utilities;
+package com.InarAcademy.utilities;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;

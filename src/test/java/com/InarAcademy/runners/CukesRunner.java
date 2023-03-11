@@ -1,4 +1,4 @@
-package com.dangelsin.runners;
+package com.InarAcademy.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "rerun:target/rerun.txt"
         },
         features = "src/test/resources/features",
-        glue = "com/dangelsin/step_definitions",
+        glue = "com/InarAcademy/step_definitions",
         tags = "@hamza",
         dryRun = false
 

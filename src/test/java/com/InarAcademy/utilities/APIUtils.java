@@ -1,4 +1,4 @@
-package com.dangelsin.utilities;
+package com.InarAcademy.utilities;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

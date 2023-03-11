@@ -1,4 +1,4 @@
-package com.dangelsin.utilities;
+package com.InarAcademy.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

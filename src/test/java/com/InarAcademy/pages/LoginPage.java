@@ -1,7 +1,7 @@
-package com.dangelsin.pages;
+package com.InarAcademy.pages;
 
-import com.dangelsin.utilities.ConfigurationReader;
-import com.dangelsin.utilities.Driver;
+import com.InarAcademy.utilities.ConfigurationReader;
+import com.InarAcademy.utilities.Driver;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

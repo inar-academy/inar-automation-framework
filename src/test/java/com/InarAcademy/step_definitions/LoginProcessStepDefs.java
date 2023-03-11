@@ -1,8 +1,8 @@
-package com.dangelsin.step_definitions;
+package com.InarAcademy.step_definitions;
 
-import com.dangelsin.utilities.BrowserUtils;
-import com.dangelsin.utilities.ConfigurationReader;
-import com.dangelsin.utilities.Driver;
+import com.InarAcademy.utilities.BrowserUtils;
+import com.InarAcademy.utilities.ConfigurationReader;
+import com.InarAcademy.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

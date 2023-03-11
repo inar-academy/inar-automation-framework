@@ -1,8 +1,8 @@
-package com.dangelsin.step_definitions;
+package com.InarAcademy.step_definitions;
 
-import com.dangelsin.utilities.ConfigurationReader;
-import com.dangelsin.utilities.DBUtils;
-import com.dangelsin.utilities.Driver;
+import com.InarAcademy.utilities.ConfigurationReader;
+import com.InarAcademy.utilities.DBUtils;
+import com.InarAcademy.utilities.Driver;
 import io.cucumber.java.Scenario;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
